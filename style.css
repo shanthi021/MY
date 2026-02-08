@@ -1,6 +1,7 @@
 #pic {
   width: 200px;
   margin-top: 20px;
-  display: none;   /* hidden at start */
+  display: none;
   border-radius: 15px;
+
 }
