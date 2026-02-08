@@ -1,0 +1,6 @@
+#pic {
+  width: 200px;
+  margin-top: 20px;
+  display: none;   /* hidden at start */
+  border-radius: 15px;
+}
